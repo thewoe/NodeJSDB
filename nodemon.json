@@ -1,0 +1,9 @@
+{
+    "env": {
+        "SQL_USER": "node_test_user",
+        "SQL_PW": "F-_jS[*vk78b(YXa",
+        "SQL_DB": "news",
+        "SQL_HOST": "localhost",
+        "SQL_DIALECT": "mysql"
+    }
+}
